@@ -1,5 +1,5 @@
 def parrot
   parrot = ("Squawk!")
 puts parrot
-return ("Squawk!")
+return = ("Squawk!")
 end
